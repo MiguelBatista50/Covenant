@@ -10,7 +10,7 @@ st.set_page_config(layout="wide",
                    page_title="Covenant")
 
 st.logo(image='https://i.imgur.com/yqw0XYW.png')
-st.title('Seja!')
+st.title('Seja Bem-Vindo!')
 
 # Atualiza o estado com os contratos disponíveis
 if "versoes" not in st.session_state:
